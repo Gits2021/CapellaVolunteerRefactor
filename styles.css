@@ -1,0 +1,160 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+	line-height: 1.5;
+	background-color: rgb(255, 208, 220);
+	background: linear-gradient(90deg, rgba(255, 208, 220, 0.8668418050814075) 14%, rgba(212, 202, 163, 1) 100%);
+
+}
+
+button {
+	margin-top: 3%;
+	margin-bottom: 3%;
+} 
+
+label{
+	color: darkslategray;
+	font-weight: bold;
+}
+
+
+.navbar-brand {
+	color: maroon !important;
+	font-weight: bold;
+
+}
+
+.nav-link {
+	color: maroon !important;
+
+}
+
+
+.bannerImages {
+	background-color: #e9bcb7;
+	background-image: linear-gradient(315deg, #e9bcb7 0%, #29524a 74%);
+
+	padding-bottom: 3%;
+
+}
+
+
+
+
+#invitationForm {
+	padding: 7% 15%;
+
+}
+
+#invitationForm h2 {
+	font-size: 2.0rem;
+	font-family: cursive; 
+	color: darkslategray;
+	font-weight: bold;
+	padding: 3%;
+}
+
+.invite-form {
+	border-style: solid 3px;
+	border-color: firebrick;
+
+	background-color: #fff5ea;
+}
+
+.form-heading {
+	color: darkslategray;
+	font-family: cursive;
+	font-weight: bold;
+	padding-bottom: 3%;
+
+}
+
+.invite-form label {
+	color: darkslategray;
+	font-weight: bold;
+}
+
+
+
+#placeholderContent {
+	line-height: 1.2;
+	font-size: 1.5rem;
+	font-family: cursive;
+	color: darkslategray;
+}
+
+/*RegistrationSection*/
+
+#registration-Form {
+	padding: 7% 15%;
+
+
+}
+
+#registration-Form h3 {
+	padding: 3%;
+	color: darkslategray;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+.registration-form {
+	background-color: #fbf7f0;
+	border: solid white 2px;
+
+
+}
+
+.registration-form label {
+	color: darkslategray;
+	font-weight: bold;
+
+}
+
+.registration-form .form-check-label {
+	margin-left: 5px;
+	padding: 1%;
+}
+
+
+/*VolunteerSection*/
+
+#currentVolunteers {
+	padding: 7% 15%;
+
+}
+
+#volunteerh2 {
+	padding: 3%;
+	color: darkslategray;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+
+.current-volunteers {
+	background-color: #fff5ea;
+}
+
+.current-volunteers h3 {
+	font-style: italic;
+	padding: 2%;
+}
+
+.current-voluteers label {
+	color: darkslategray;
+	font-weight: bold;
+}
+
+/* Gallery */ 
+
+#gallery{
+	padding: 7% 15%; 
+} 
+
+#gallery h2{
+	padding: 3%; 
+	color: darkslategray; 
+	font-family: cursive; 
+	font-weight: bold; 
+}
